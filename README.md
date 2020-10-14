@@ -5,10 +5,10 @@
 
 여전히 Apple용으로는 출시되지 않습니다.. 없어요 아직도!
 
-Windows: [window.zip](./data/window.zip)  
+Windows: [window.zip](https://github.com/is2you2/ehh_transfer/raw/master/data/window.zip)  
 Mac OSX: 출시되지 않음.  
-Linux: [linux.zip](./data/linux.zip)  
-Android: [Simple_Transfer.apk](data/Simple%20Transfer.apk)  
+Linux: [linux.zip](https://github.com/is2you2/ehh_transfer/raw/master/data/linux.zip)  
+Android: [Simple_Transfer.apk](https://github.com/is2you2/ehh_transfer/raw/master/data/Simple%20Transfer.apk)  
 iOS: 출시되지 않음.
 
 ## Android 정신나간 권한설정
