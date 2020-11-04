@@ -11,11 +11,10 @@ Linux: [linux.zip](https://github.com/is2you2/ehh_transfer/raw/master/data/linux
 Android: [Simple_Transfer.apk](https://github.com/is2you2/ehh_transfer/raw/master/data/Simple%20Transfer.apk)  
 iOS: 출시되지 않음.
 
-## Android 정신나간 권한설정
+## Android 정신나간 동작방식
 처음에 PC간 파일 송수신을 목적으로 했기 때문에  
 이 프로그램의 경우 Android에서는 이상적으로 동작하지 않습니다.  
 권한 최소화를 위해 앱 내부에 파일을 저장하며, 앱을 삭제하면 전송과 연관된 모든 파일이 삭제됩니다.  
-파일 동작 확인 업데이트
 
 ## 사용설명서
 ![server_first](data/server_first.gif)  
