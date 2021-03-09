@@ -5,7 +5,7 @@
 
 여전히 Apple용으로는 출시되지 않습니다.. 없어요 아직도!
 
-Windows: [window.zip](https://github.com/is2you2/ehh_transfer/raw/master/data/window.zip)  
+Windows: [window.exe](https://github.com/is2you2/ehh_transfer/raw/master/data/SimpleTransfer.exe)  
 Mac OSX: 출시되지 않음.  
 Linux: [linux.zip](https://github.com/is2you2/ehh_transfer/raw/master/data/linux.zip)  
 Android: [Simple_Transfer.apk](https://github.com/is2you2/ehh_transfer/raw/master/data/Simple%20Transfer.apk)  
